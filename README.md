@@ -1,6 +1,6 @@
 # A super minimalistic programme for Hierarchical Deterministic key derivation for Ruby.
 
-A simple proof of concept.
+A simple proof of concept. :warning: There is no support for SegWit addresses yet.
 
 ## Installation
 
